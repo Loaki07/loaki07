@@ -7,10 +7,10 @@
 - 🥅 2022 Goals: Learn more on backend system architecture and build robust backends
 - 💬 Ask me about 🦀 Rust, Distributed & Decentralized applications
 
-### Connect with me:
+<!-- ### Connect with me:
 
 [![website](./assets/linkedin-light.svg)](https://linkedin.com/in/loakesh-indiran-8a2282140#gh-light-mode-only)
-[![website](./assets/linkedin-dark.svg)](https://linkedin.com/in/loakesh-indiran-8a2282140#gh-dark-mode-only)
+[![website](./assets/linkedin-dark.svg)](https://linkedin.com/in/loakesh-indiran-8a2282140#gh-dark-mode-only) -->
 
 
 <details>
