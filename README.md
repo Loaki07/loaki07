@@ -1,9 +1,6 @@
 ### Hi there, I'm Loaki 👋
 
 - 🔭 I’m currently working on 🦀 Rust building Distributed & Decentralized applications
-- 🌱 I’m currently learning blockchain, system architecture
-- 👯 I’m looking to collaborate on rust based projects
-- 🥅 2022 Goals: Learn more on backend system architecture and build robust backends
 - 💬 Ask me about 🦀 Rust, Distributed & Decentralized applications
 
 
