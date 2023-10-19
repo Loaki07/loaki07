@@ -1,6 +1,6 @@
 ### Hi there, I'm Loaki 👋
 
-- 🔭 I’m currently working on 🦀 Rust building Distributed & Decentralized applications
+- 🔭 I’m currently working on 🦀 Rust building Distributed system applications
 
 
 <details>
